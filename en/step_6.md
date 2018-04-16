@@ -8,4 +8,4 @@ Your author doubled the LED magic by repeating this process on the back of her h
 
 This tutorial first appeared in HackSpace magazine issue 4, which you can download for free from [hsmag.cc](https://hsmag.cc){:target="_blank"}. Follow HackSpace magazine to get your fill of making every month.
 
-![sew the circuit](images/step6.JPG)
+![sew the circuit](images/Step6.JPG)
