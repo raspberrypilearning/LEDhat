@@ -3,7 +3,6 @@
 This is a simple and easy sewn circuit project, and it’s great for getting started with wearables. We’ll sew three LEDs onto a knit hat for more visibility at night. Once you’ve gotten the basics down with this project, you can use this circuit to sew LEDs into other garments too.
 
 ### What you'll need
-
 * Knit Hat (find one with a folded cuff)
 * 3 Sewable LEDs
 * 1 sewable coin cell battery holder
