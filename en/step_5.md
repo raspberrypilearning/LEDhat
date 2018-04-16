@@ -7,6 +7,6 @@ Use a simple running stitch to sew to the positive sew tab of the first LED. Loo
 
 When you’ve connected the last positive sew tab, tie off your thread with a tight knot. Trim the thread close to the knot to prevent short circuits.
 
-Rethread your needle with another 50cm length of conductive thread. Go back to the battery holder and repeat this process to sew the negative leg of your circuit. Keep this second thread run at least 1 cm away from the first.
+Rethread your needle with another 50cm length of conductive thread. Go back to the battery holder and repeat this process to sew the negative leg of your circuit. Keep this second thread run at least 1cm away from the first.
 
 ![sew the circuit](images/step5.JPG)
