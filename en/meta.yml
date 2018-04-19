@@ -1,0 +1,15 @@
+title: Create your own light-up hat
+hero_image: images/banner.JPG
+description: Keep yourself warm and visible on dark nights with a simple circuit
+version: 4
+listed: false
+copyedit: false
+last_tested: "2018-04-16"
+site_areas: HackSpace
+steps:
+  - title: Introduction
+  - title: Circuit overview
+  - title: Prepare the hat
+  - title: Add the components
+  - title: Sew the circuit
+  - title: Light it up
