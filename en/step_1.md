@@ -14,6 +14,6 @@ This is a simple and easy sewn circuit project, and it’s great for getting sta
 * Hot glue gun and glue sticks
 
 ### Author
-Sophy Wong is a designer, maker, and avid creator. Her projects range from period costumes to Arduino-driven wearable tech. She can be found on [her YouTube channel](https://www.youtube.com/channel/UCFkrcZuO5F1GkHQdoVD8YBA){:target="_blank"} and at [sophywong.com](www.sophywong.com){:target="_blank"}, chronicling her adventures in making. 
+Sophy Wong is a designer, maker, and avid creator. Her projects range from period costumes to Arduino-driven wearable tech. She can be found on [her YouTube channel](https://www.youtube.com/channel/UCFkrcZuO5F1GkHQdoVD8YBA){:target="_blank"} and at [sophywong.com](http://www.sophywong.com){:target="_blank"}, chronicling her adventures in making. 
 
 This tutorial first appeared in HackSpace magazine issue 4, which you can download for free from [hsmag.cc](https://hsmag.cc){:target="_blank"}. Follow HackSpace magazine to get your fill of making every month.
