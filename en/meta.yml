@@ -5,17 +5,15 @@ description: Keep yourself warm and visible on dark nights with a simple circuit
 version: 4
 listed: false
 copyedit: true
-curriculum:
-interests:
-technologies:
+curriculum: 
+interests: 
+technologies: 
 last_tested: '2018-04-16'
 site_areas: HackSpace
 steps:
 - title: Introduction
-  completion: engaged
 - title: Circuit overview
 - title: Prepare the hat
 - title: Add the components
 - title: Sew the circuit
-  completion: internal
 - title: Light it up
